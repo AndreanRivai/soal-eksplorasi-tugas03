@@ -2,6 +2,7 @@ import csv
 import os
 import datetime
 import random
+import matplotlib
 
 data_karyawan = "DaftarKaryawan.csv"
 
