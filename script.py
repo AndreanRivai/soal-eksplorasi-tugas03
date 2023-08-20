@@ -3,7 +3,7 @@ import os
 import datetime
 import random
 import numpy
-
+print("halo")
 data_karyawan = "DaftarKaryawan.csv"
 
 def start():
